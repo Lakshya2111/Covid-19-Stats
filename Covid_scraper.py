@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests, smtplib, csv
-import pandas as pd
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from prettytable import PrettyTable
