@@ -1,2 +1,2 @@
 # Covid-19-Stats
-A python script that sends the most affected countries Covid-19 data via mail.
+A python script that sends the data of most affected countries Covid-19 via mail.
